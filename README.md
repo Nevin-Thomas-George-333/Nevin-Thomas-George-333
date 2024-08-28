@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nevin-thomas-george-333&label=Profile%20views&color=0e75b6&style=flat" alt="nevin-thomas-george-333" /> </p>
 
-<img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
 - 🌱 I’m currently learning **MERN Stack development**
 - 📫 How to reach me: **georgenevinthomas@gmail.com**
